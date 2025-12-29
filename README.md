@@ -34,7 +34,7 @@ JSPM University, Pune | 2023 – 2027
 ## 🛠️ Project
 ### **ClubConnect – College Club Management System**
 JavaFX + Firebase desktop application featuring secure authentication, role-based dashboards, and task management (create, view, submit).  
-UI enhanced using JavaFX best practices and AI-assisted development with Google Antigravity.
+UI enhanced using JavaFX best practices and clean, responsive layouts.
 
 ---
 
