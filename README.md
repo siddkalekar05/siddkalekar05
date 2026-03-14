@@ -10,13 +10,6 @@ I follow **MVC architecture**, use **Git & GitHub** for version control, and con
 
 I am actively seeking a **Software Development Internship** to apply my skills and gain real-world industry experience.
 
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science & Engineering (AI & ML)**  
-JSPM University, Pune  
-📅 2023 – 2027
 
 ---
 
@@ -44,43 +37,6 @@ JSPM University, Pune
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
----
-
-## 🛠️ Project
-
-### **ClubConnect – College Club Management System**
-
-**ClubConnect** is a Java-based desktop application designed to **digitize and streamline college club management**.  
-The system replaces manual coordination with a **centralized, role-based platform** that improves task tracking, communication, and accountability among club members.
-
-The application is built using **JavaFX** for the user interface and **Firebase Authentication & Realtime Database** for backend services, following the **MVC (Model–View–Controller) architecture** to ensure clean, maintainable, and scalable code.
-
-### 🔐 Key Features
-- Secure user authentication using Firebase Authentication  
-- Role-based access control (Admin / Club Lead / Member)  
-- Separate dashboards for different user roles  
-- Task management system:
-  - Create, assign, view, and submit tasks  
-- Real-time data synchronization using Firebase Realtime Database  
-- Clean and responsive JavaFX UI with reusable components  
-
-### ⚙️ Technologies Used
-- **Language:** Java  
-- **UI:** JavaFX  
-- **Backend:** Firebase Authentication, Firebase Realtime Database  
-- **Architecture:** MVC  
-- **Tools:** Git, GitHub, Maven  
-
-### 🎯 Project Outcome
-ClubConnect provides an **efficient and scalable solution** for managing college clubs and activities.  
-Through this project, I gained hands-on experience in **Java application development, authentication flows, backend integration, and real-world software architecture**.
-
----
-
-## 📜 Certifications
-- AWS Cloud Virtual Internship  
-- Google AI-ML Virtual Internship  
 
 ---
 
