@@ -1,81 +1,130 @@
+<!-- Animated Intro -->
+
+<h1 align="center">Hi 👋, I'm Siddhesh Kalekar</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;CSE+(AI+%26+ML)+Student;DSA+Learner;Building+Real+World+Applications;Open+to+Software+Development+Internships" />
+  </a>
+</p>
+
+---
+
 # 💫 About Me
 
-**Java Developer | CSE (AI & ML) Undergraduate | Backend & DSA Learner**
-
-I am a Computer Science and Engineering student specializing in **AI & ML** at **JSPM University, Pune**.
-I have strong fundamentals in **Java, Object-Oriented Programming, JDBC, and Data Structures**, and I enjoy building real-world applications that solve practical problems.
-
-I develop **JavaFX desktop applications** integrated with backend services such as **Firebase Authentication, Supabase, and MySQL databases using JDBC**.
-I follow **MVC architecture**, use **Git & GitHub** for version control, and continuously improve my problem-solving skills through **Data Structures & Algorithms (DSA) practice**.
-
-I am actively seeking a **Software Development Internship** to apply my skills and gain real-world industry experience.
+🎓 **CSE (AI & ML) Student – JSPM University, Pune**
+💻 Passionate about **Java Backend Development & System Design**
+🧠 Improving problem-solving skills through **Data Structures & Algorithms**
+⚡ Building real-world applications using **Java, JDBC, MySQL, Firebase & Supabase**
+🚀 Currently learning **Spring Boot & Backend Architecture**
 
 ---
 
-# 💻 Skills & Technologies
+# 🚀 Tech Stack
 
-## Programming & Core Concepts
+## 👨‍💻 Programming & Core
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp" />
+</p>
 
----
-
-## Frameworks & UI
-
-![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge\&logo=java\&logoColor=white)
+* Java
+* Data Structures & Algorithms
+* Object-Oriented Programming
 
 ---
 
-## Backend & Database
+## ⚙️ Backend & Database
 
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+</p>
 
----
-
-## Architecture & Computer Science
-
-![MVC](https://img.shields.io/badge/MVC-795548?style=for-the-badge)
-![Multithreading](https://img.shields.io/badge/Multithreading-673AB7?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-009688?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-607D8B?style=for-the-badge)
+* JDBC
+* MySQL
+* Firebase Authentication
+* Supabase
 
 ---
 
-## Tools
+## 🖥 Frameworks & Architecture
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-
----
-
-# 🎯 Career Objective
-
-To secure a **Software Development Internship** where I can apply my **Java backend, database, and problem-solving skills**, learn from industry professionals, and grow as a developer.
+* JavaFX
+* MVC Architecture
+* Multithreading
+* REST API Fundamentals
 
 ---
 
-# 🌐 Connect With Me
+## 🛠 Tools
 
-* **GitHub:** https://github.com/siddkalekar05
-* **LinkedIn:** https://www.linkedin.com/in/siddhesh-kalekar-a59169329
-* **Email:** [kalekarsiddhesh593@gmail.com](mailto:kalekarsiddhesh593@gmail.com)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea" />
+</p>
+
+* Git & GitHub
+* Maven
+* IntelliJ IDEA
+* VS Code
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+Currently improving problem-solving skills by studying **DSA**.
+
+Learning topics:
+
+* Arrays
+* Searching Algorithms
+* Sorting Algorithms
+* Recursion
+* Problem-solving patterns
+
+Goal: Strengthen algorithmic thinking for **software engineering interviews and backend development**.
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=siddkalekar05\&theme=dark\&hide_border=false)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=siddkalekar05&show_icons=true&theme=tokyonight"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=siddkalekar05\&theme=dark\&hide_border=false)
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=siddkalekar05&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddkalekar05\&theme=dark\&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddkalekar05&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=siddkalekar05\&icon=0\&color=0)](https://visitcount.itsvg.in)
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddkalekar05&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🎯 Career Objective
+
+To secure a **Software Development Internship** where I can apply my **Java backend development and problem-solving skills**, contribute to impactful projects, and grow as a software engineer.
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email:** [kalekarsiddhesh593@gmail.com](mailto:kalekarsiddhesh593@gmail.com)
+
+🔗 **LinkedIn**
+https://www.linkedin.com/in/siddhesh-kalekar-a59169329
+
+💻 **GitHub**
+https://github.com/siddkalekar05
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=siddkalekar05\&icon=5\&color=6)
