@@ -6,7 +6,7 @@ I am a Computer Science and Engineering student specializing in **AI & ML** at *
 I have strong fundamentals in **Java, Object-Oriented Programming, JDBC, and Data Structures**, and I enjoy building real-world applications that solve practical problems.
 
 I develop **JavaFX desktop applications** integrated with backend services such as **Firebase Authentication, Supabase, and MySQL databases using JDBC**.
-I follow **MVC architecture**, use **Git & GitHub** for version control, and continuously improve my problem-solving skills through **DSA practice**.
+I follow **MVC architecture**, use **Git & GitHub** for version control, and continuously improve my problem-solving skills through **Data Structures & Algorithms (DSA) practice**.
 
 I am actively seeking a **Software Development Internship** to apply my skills and gain real-world industry experience.
 
