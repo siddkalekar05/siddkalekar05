@@ -13,9 +13,13 @@
 # 💫 About Me
 
 🎓 **CSE (AI & ML) Student – JSPM University, Pune**
+
 💻 Passionate about **Java Backend Development & System Design**
+
 🧠 Improving problem-solving skills through **Data Structures & Algorithms**
+
 ⚡ Building real-world applications using **Java, JDBC, MySQL, Firebase & Supabase**
+
 🚀 Currently learning **Spring, Spring Boot, REST APIs, and Backend Architecture**
 
 ---
@@ -29,7 +33,6 @@
 </p>
 
 * Java
-* C++
 * SQL
 * Data Structures & Algorithms
 * Object-Oriented Programming
