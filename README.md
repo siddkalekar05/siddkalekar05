@@ -16,13 +16,11 @@
 💻 Passionate about **Java Backend Development & System Design**
 🧠 Improving problem-solving skills through **Data Structures & Algorithms**
 ⚡ Building real-world applications using **Java, JDBC, MySQL, Firebase & Supabase**
-🚀 Currently learning **Spring Boot & Backend Architecture**
+🚀 Currently learning **Spring, Spring Boot, REST APIs, and Backend Architecture**
 
 ---
 
 # 🚀 Tech Stack
-
-## 👨‍💻 Programming & Core
 
 ## 👨‍💻 Programming & Core
 
@@ -31,11 +29,13 @@
 </p>
 
 * Java
+* C++
 * SQL
 * Data Structures & Algorithms
 * Object-Oriented Programming
 * Multithreading / Concurrency
 * Problem Solving
+
 ---
 
 ## ⚙️ Backend & Database
@@ -63,13 +63,27 @@
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman" />
 </p>
 
 * Git & GitHub
 * Maven
 * IntelliJ IDEA
 * VS Code
+* Postman
+
+---
+
+# 🚀 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+* Spring Framework
+* Spring Boot
+* REST API Development
+* Backend System Design
 
 ---
 
