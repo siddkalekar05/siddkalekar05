@@ -27,7 +27,7 @@
 ## 👨‍💻 Programming & Core
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=java,mysql" />
 </p>
 
 * Java
