@@ -24,14 +24,18 @@
 
 ## 👨‍💻 Programming & Core
 
+## 👨‍💻 Programming & Core
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp" />
+<img src="https://skillicons.dev/icons?i=java,cpp,mysql" />
 </p>
 
 * Java
+* SQL
 * Data Structures & Algorithms
 * Object-Oriented Programming
-
+* Multithreading / Concurrency
+* Problem Solving
 ---
 
 ## ⚙️ Backend & Database
